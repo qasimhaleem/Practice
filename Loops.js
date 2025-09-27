@@ -50,7 +50,41 @@ arr.forEach(item => {
     
 }); */
 
-function addition(a,b){
+/* function addition(a,b){
     return a + b;
 }
 console.log(addition(4, 10));
+ */
+/* 
+const fun = function(a,b) {
+    return a+b;
+}
+console.log(fun(10,40)); */
+
+/* 
+// greet();
+const greet = function() {
+    console.log('Hello i am qasim haleem');
+}
+greet() */
+/* 
+const arrow = () =>{
+    console.log("arrow fun in use");
+}
+arrow(); */
+
+/* const fun = () => {
+    let arr = [2,5,2,5,6,7,21];
+    arr.forEach(item => {
+        console.log(item);
+    });
+}
+fun();
+ */
+/* const fun = (a, b) => res = a+b;
+console.log(fun(10,80));
+ */
+setTimeout(function() {
+    console.log("this runs after 2 seconds");
+},2000);
+
