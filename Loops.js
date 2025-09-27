@@ -84,7 +84,11 @@ fun();
 /* const fun = (a, b) => res = a+b;
 console.log(fun(10,80));
  */
-setTimeout(function() {
+
+/* setTimeout(function() {
     console.log("this runs after 2 seconds");
 },2000);
+ */
+
+
 
